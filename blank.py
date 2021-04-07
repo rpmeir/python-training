@@ -30,4 +30,3 @@
 # https://codewith.mu/en/howto/1.1/install_with_python
 
 
-print('teste');
